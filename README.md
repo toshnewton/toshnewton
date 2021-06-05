@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 ### Spotify Now Playing 🎧
 
-[<img src="https://novatorem-lyart.vercel.app/api/spotify" alt="Tosh's Spotify Now Playing" width="350" />](https://open.spotify.com/user/1214675604)
+
 
 ### Languages and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=ffffff)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=ffffff)
@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-211F1F?style=flat&logo=github&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat&logo=amazon-aws&logoColor=ffffff)
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
