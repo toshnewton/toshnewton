@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=ffffff)
+![Javascript](http://img.shields.io/badge/-Java-f89820?style=flat&logo=javascript&logoColor=ffffff)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=ffffff)
