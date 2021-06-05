@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### Spotify Now Playing 🎧
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1214675604&cover_image=true&theme=novatorem)](https://open.spotify.com/user/1214675604)
 
 ### Languages and Technologies
 
