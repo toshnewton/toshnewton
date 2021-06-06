@@ -10,6 +10,9 @@
   <a href="https://www.instagram.com/toshnewton/"> 
     <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/tosh.newton/"> 
+    <img alt="Follow on Facebook" src="https://img.shields.io/badge/-Facebook-E1306C?style=flat&logo=facebook&logoColor=white" />
+  </a>
   <a href="https://www.flickr.com/people/191160915@N02/"> 
     <img alt="Follow on Flickr" src="https://img.shields.io/badge/-Flickr-0063DC?style=flat&logo=flickr&logoColor=white" />
   </a>
