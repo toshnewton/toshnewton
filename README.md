@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
-<details>
+<!--- <details>
   <summary>Github Stats</summary>
 
 <img alt="toshnewtons's Github Stats" src="https://github-readme-stats-beryl-three.vercel.app/api?username=toshnewton&theme=gotham&show_icons=true&hide_border=true" />
@@ -68,3 +68,4 @@ Here are some ideas to get you started:
   <img alt="toshnewtons's Top Languages" src="https://github-readme-stats-beryl-three.vercel.app/api/top-langs?username=toshnewton&theme=gotham&show_icons=true&hide_border=true" />
 
 </details>
+--->
