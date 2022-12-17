@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 ![MS Access](http://img.shields.io/badge/-Microsoft%20Office-DC3E15?style=flat&logo=microsoft-office&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
+![](https://komarev.com/ghpvc/?username=toshnewton)
+
 <!--- <details>
   <summary>Github Stats</summary>
 
